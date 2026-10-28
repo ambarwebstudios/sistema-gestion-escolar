@@ -23,3 +23,6 @@ Proyecto de práctica. No es una aplicación de producción ni una demo pública
 
 ## Autora
 Ambar · [LinkedIn](https://www.linkedin.com/in/ambar-lopez-87ab0b446/)
+
+## Demo en línea
+[Ver demo en línea](https://morenalopezb.free.je/)
